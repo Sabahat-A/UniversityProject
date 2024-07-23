@@ -1,0 +1,26 @@
+.banner
+{
+  background-image : url(../media/eli-francis-_M-DrbiNFa4-unsplash.jpg);
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height:700px;
+}
+
+.about
+{
+	background-image:url(../media/thought-catalog-505eectW54k-unsplash.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 600px;
+}
+
+
+.courses
+{
+	background-color:#007C7F;
+	color: #FFFFFF;
+	font-size: 60px;
+	
+}
